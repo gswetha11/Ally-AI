@@ -1,5 +1,5 @@
 import React from 'react'
-import { Users, MessageCircle, Calendar, Award, ExternalLink, Heart, Star, Globe } from 'lucide-react'
+import { Users, MessageCircle, Calendar, Award, ExternalLink, Heart, Star, Globe, Clock } from 'lucide-react'
 import { motion } from 'framer-motion'
 
 const Community = () => {
